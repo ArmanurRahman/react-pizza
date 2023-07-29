@@ -1,5 +1,4 @@
 function App() {
-    const a = 20;
     return <div>working</div>;
 }
 
